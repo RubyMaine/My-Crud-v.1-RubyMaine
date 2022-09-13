@@ -13,7 +13,7 @@
 </h3>
 
 
-# MY PORTFOLIO RUBYMINE создано с помощью:
+# MY CRUD RUBYMINE создано с помощью:
 > **HTML 5** + **CSS 3** + **Bootstrap 5** + **Apache_2.4** + **PHP_8.0+8.1** + **MySQL_5.6** <br /> с большой любовью.
 
 
